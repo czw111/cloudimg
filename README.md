@@ -1,1 +1,18 @@
-IyBjbG91ZGltZwoKCiMjIEFib3V0IHRoZSBBdXRob3IKCkNuempiMTEgaXMgYSBzb2Z0d2FyZSBlbmdpbmVlciBmcm9tIENoaW5hLiBIZSBoYXMgYSBwYXNzaW9uIGZvciBvcGVuIHNvdXJjZSBhbmQgZW5qb3lzIGNvbnRyaWJ1dGluZyB0byB2YXJpb3VzIHByb2plY3RzLgoKSGUgaXMgaW50ZXJlc3RlZCBpbiBjbG91ZCBjb21wdXRpbmcgYW5kIGRpc3RyaWJ1dGVkIHN5c3RlbXMuCgojIyBPdGhlciBSZXBvc2l0b3JpZXMgYnkgY3p3MTExCgotIFtmb3JrX2Nsb3VkX2ltZ10oaHR0cHM6Ly9naXRodWIuY29tL2N6dzExMS9jbG91ZGltZykKLSBbbXlfcHJpdmF0ZV9wYXNzd29yZF0oaHR0cHM6Ly9naXRodWIuY29tL2N6dzExMS9teV9wcml2YXRlX3Bhc3N3b3JkKQotIFt6anViaXllXShodHRwczovL2dpdGh1Yi5jb20vY3p3MTExL3pqdWJpeWUpCi0gW2xpbnV4X2JlaWZlbl9ibG9nXShodHRwczovL2dpdGh1Yi5jb20vY3p3MTExL2xpbnV4X2JlaWZlbl9ibG9nKQ==
+# cloudimg
+
+
+## About the Author
+
+Cnzjb11 is a software engineer from China. He has a passion for open source and enjoys contributing to various projects.
+
+He is interested in cloud computing and distributed systems.
+
+For more information about the author's private information, please refer to the README of the `my_private_password` cloud img repository.
+
+
+## Other Repositories by czw111
+
+- [fork_cloud_img](https://github.com/czw111/cloudimg)
+- [my_private_password](https://github.com/czw111/my_private_password)
+- [zjubiye](https://github.com/czw111/zjubiye)
+- [linux_beifen_blog](https://github.com/czw111/linux_beifen_blog)
