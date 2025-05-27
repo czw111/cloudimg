@@ -8,7 +8,7 @@ He is interested in cloud computing and distributed systems.
 
 For more information about the author's private information, please refer to the README of the `my_private_password` cloud img repository.
 
-## Other Repositories by czw111
+## Other Private Repositories by czw111
 
 - [my_private_password](https://github.com/czw111/my_private_password)
   Stores the user's login password, such as bank card password and account password
