@@ -1,2 +1,1 @@
-ls /
-cat /etc/passwd
+test
